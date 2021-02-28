@@ -6,6 +6,7 @@ public class Class3 {
 	System.out.println("hello world 2");
 
 	System.out.println("hi everyone this is first commit on canan branch");
+		//conflict in master branch
 	}
 
 }
